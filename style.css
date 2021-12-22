@@ -1,0 +1,30 @@
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999;
+}
+
+.landmarks_mainDiv img
+{
+  height:500px;
+  width:750px;
+}
+
+.movie_head
+{
+  padding: 6px 22px;
+  margin-bottom: 15px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.movie_head i
+{
+  float: right;
+}
+
+.movie_text span
+{
+  color: yellow;
+}
